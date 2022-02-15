@@ -1,0 +1,5 @@
+molecule_chembl_id,canonical_smiles,standard_value,class
+CHEMBL195333,COc1ccc(C(C[N+](=O)[O-])Sc2ccc(N)cc2)cc1,26600.0,inactive
+CHEMBL383355,Nc1ccc(SC(C[N+](=O)[O-])c2ccc(F)cc2)cc1,26600.0,inactive
+CHEMBL371508,COC(=O)c1cc(Cl)cc2c1N[S+]([O-])S2,3100.0,intermediate
+CHEMBL195530,Cc1cc(C(=O)CSc2nc(O)c(C#N)c(-c3cccs3)n2)ccc1Cl,6300.0,intermediate
